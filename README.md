@@ -70,8 +70,7 @@ Or run the training script:
     │   └── Task1.ipynb
     │
     ├── README.md
-    ├── requirements.txt
-    └── LICENSE
+    └── requirements.txt
 
 ------------------------------------------------------------------------
 
