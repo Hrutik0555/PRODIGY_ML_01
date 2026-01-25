@@ -35,7 +35,7 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 ### 1️⃣ Clone the Repository
 
-    git clone https://github.com/your-username/house-price-prediction.git
+    git clone https://github.com/Hrutik0555/PRODIGY_ML_01.git
     cd house-price-prediction
 
 ### 2️⃣ Install Dependencies
